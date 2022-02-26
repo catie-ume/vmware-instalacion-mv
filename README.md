@@ -11,7 +11,7 @@ Este documento detalla los principales procedimientos relacionados con el manten
 [VMware ESXi](https://www.vmware.com/products/esxi-and-esx.html) es un programa de virtualización (i.e. hipervisor) para centros de datos. Contiene su propio sistema operativo, el cual proporciona, entre otros servicios, un entorno para la gestión de máquinas virtuales.
 
 ## Ingreso al hipervisor VMware ESXi
-Para ingresar a la interfaz de usuario de VMware ESXi, debe accederse a la dirección [](), la cuál desplegará la siguiente pantalla de ingreso:
+Para ingresar a la interfaz de usuario de VMware ESXi, debe accederse a la dirección [](), la cuál despliega la siguiente pantalla de ingreso:
 
 ![Pantalla de ingreso a VMware ESXi](img/vmware-login.png "Pantalla de ingreso a VMware ESXi")
 
